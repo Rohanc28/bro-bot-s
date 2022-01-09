@@ -7,7 +7,7 @@ This rep only contains part of code that can be made public. Parts like auth, ke
 
 The BroBOT.py file will not run. To see source code or for any questions, feel free to contact me.
 
-## Invite [Link](https://discord.com/api/oauth2/authorize?client_id=821771855400665181&permissions=0&scope=bot) 
+## Invite  [BroBOT](https://discord.com/api/oauth2/authorize?client_id=821771855400665181&permissions=0&scope=bot) to your discord server!
 
 ## Commands:
 Bro BOT looks for prefix "bro" to detect messages. Some commands it responds to.
