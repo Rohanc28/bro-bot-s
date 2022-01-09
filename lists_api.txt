@@ -4,7 +4,6 @@ brobot api link list
 -https://api.apify.com/v2/key-value-stores/toDWvRj1JpTXiM8FF/records/LATEST?disableRedirect=true
 -https://xkcd.com/num/info.0.json
 -https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw
--https://v2.jokeapi.dev/joke/Dark
 -https://official-joke-api.appspot.com/random_joke
 -https://freegeoip.app/json/
 -https://api.coindesk.com/v1/bpi/currentprice.json
