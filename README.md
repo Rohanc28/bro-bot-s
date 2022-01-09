@@ -1,6 +1,11 @@
 
-# BroBOT - README
-Made by Rohan Chaturvedi 
+# README  - BroBOT
+Made by Rohan Chaturvedi idevrutahc@gmail.com
+
+# DISCLAIMER:
+This rep only contains part of code that can be made public. Parts like auth, key, env, api's keys and other parts cannot be shared/made public. If you want to learn more about the BOT, feel free to contact me.
+
+The BroBOT.py file will not run. To see source code or for any questions, feel free to contact me.
 
 ## Invite [Link](https://discord.com/api/oauth2/authorize?client_id=821771855400665181&permissions=0&scope=bot) 
 
