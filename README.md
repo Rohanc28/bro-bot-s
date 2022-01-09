@@ -23,7 +23,8 @@ sup/Sup
 ```
 bro help
 ```
-![image](https://user-images.githubusercontent.com/81807980/137751799-7bb74443-1a31-42ce-8c76-0ce3d2bdc1d6.png)
+![image](https://user-images.githubusercontent.com/81807980/148688210-2110e4d4-8e56-454b-858d-7c82447b764c.png)
+
 
 ## Screenshots:
 
