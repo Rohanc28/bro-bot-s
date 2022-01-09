@@ -63,5 +63,5 @@ bro trivia
 
 
 
-#Acknowledgements:
+# Acknowledgements:
 Thanks to Rapptz (discord.py), Jonah Lawrence (help with deploying on Heroku), and several StackoverFlow users for helping me solve minor bugs.
