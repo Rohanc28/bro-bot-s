@@ -1,8 +1,10 @@
 
-# README  - BroBOT
+# README  - BroBOT 
 Made by Rohan Chaturvedi idevrutahc@gmail.com
 
 # DISCLAIMER:
+The discord bot is no longer active in servers due to Heroku's updated policy towards free tier, effectively removing all free tier backend databases and hosting services from Nov 28 onwards.
+
 This rep only contains part of code that can be made public. Parts like auth, key, env, api's keys and other parts cannot be shared/made public. If you want to learn more about the BOT, feel free to contact me.
 
 The BroBOT.py file will not run. To see source code or for any questions, feel free to contact me.
